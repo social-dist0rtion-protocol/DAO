@@ -5,6 +5,7 @@ The funds of the DAO are managed by the multi signature wallet deployed in the M
 
 The multi signature wallet defines a *set of owners* and a *number of required confirmations* to execute a transaction.
 
+## Proposals
 Anyone can make a **proposal** by opening an issue in any repository of the Social Dist0rtion Protocol organization on GitHub.
 
 The proposal must contain:
@@ -18,3 +19,16 @@ The author of the proposal has the responsibility to gauge interest around their
 Being `n` the number of confirmations required to execute a transaction:
 - A proposal is **accepted** when at least `n` owners vote for it.
 - A proposal is **paid** and funds are transferred when at least `n` owners agree that the work has been successfully delivered.
+
+## Improve the governance
+The governance can be improved by submitting new DAO Improvement Proposals (DIPs).
+
+A **DIP** follows the same confirmation rules of a **proposal**.
+
+## Owner's Responsibilities
+The correct functioning of the DAO depends on the conduct of its owners.
+
+Every owner is required to follow those rules:
+- Backup their keys, and store them securely.
+- Immediately report lost or stolen keys to the other owners.
+- Be responsive to evaluate a proposal when asked by another owner.
