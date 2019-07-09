@@ -27,7 +27,7 @@ The author of the proposal has the responsibility to gauge interest around their
 
 If the proposal is to be resolved on-chain (payments, minting, adding and removing owners, ...), owners may vote "yes" by confirming the proposed transaction in the multi signature wallet.
 
-Any other proposal can be voted by the owners in the comment section of the issue. If the number of "yes" votes is equal to the *number of required confirmations*, then the proposal is implemented.
+Any other proposal can be voted by the owners in the comment section of the issue. If the number of "yes" votes is equal to the *number of required confirmations* defined in the multi signature wallet, then the proposal is implemented.
 
 ## Owner's Responsibilities
 The correct functioning of the DAO depends on the conduct of its owners.
