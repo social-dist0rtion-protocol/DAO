@@ -5,7 +5,7 @@ SDP's DAO is the combination of:
 - **Governance**, that describes the rules by which SDP operates. Those rules can be enforced by the members of SDP and/or by smart contracts.
 - A **multisig wallet**, to hold the funds of the DAO.
 
-SDP's governance is defined by a collection of standards called *Distortion Improvement Proposals* (DIPs).
+SDP's governance is defined by a collection of standards called *Dist0rtion Improvement Proposals* (DIPs).
 
 # Current DIPs
 
